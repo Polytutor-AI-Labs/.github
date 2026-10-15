@@ -28,7 +28,10 @@ PolyTutor AI Labs builds open-source trading bots for Polymarket and other predi
 
 ## Contact
 
-Telegram: [@polytutor](https://t.me/polytutor)
+| WeChat | Telegram | WhatsApp |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/Polytutor-AI-Labs/.github/main/profile/wechat.png" width="180" alt="WeChat QR code" /> | <a href="https://t.me/polytutor"><img src="https://raw.githubusercontent.com/Polytutor-AI-Labs/.github/main/profile/telegram.png" width="180" alt="Telegram @polytutor" /></a> | <a href="https://wa.me/13512252284"><img src="https://raw.githubusercontent.com/Polytutor-AI-Labs/.github/main/profile/whatsapp.png" width="180" alt="WhatsApp QR code" /></a> |
+| | [@polytutor](https://t.me/polytutor) | |
 
 ## Disclaimer
 
